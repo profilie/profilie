@@ -1,10 +1,10 @@
 <a id="top"></a>
 
-[![Forks](https://img.shields.io/github/forks/profilie/profilie?style=for-the-badge)](https://github.com/harys722/open-api/network/members)
-[![Stargazers](https://img.shields.io/github/stars/profilie/profilie?style=for-the-badge)](https://github.com/harys722/open-api/stargazers)
-[![Pulls](https://img.shields.io/github/issues-pr-raw/profilie/profilie?style=for-the-badge&label=Pull+Requests)](https://github.com/harys722/open-api/pulls)
-[![Issues](https://img.shields.io/github/issues/profilie/profilie?style=for-the-badge)](https://github.com/harys722/open-api/issues)
-[![License](https://img.shields.io/github/license/profilie/profilie?style=for-the-badge)](https://github.com/harys722/open-api/blob/main/LICENSE)
+[![Forks](https://img.shields.io/github/forks/profilie/profilie?style=for-the-badge)](https://github.com/profilie/profilie/network/members)
+[![Stargazers](https://img.shields.io/github/stars/profilie/profilie?style=for-the-badge)](https://github.com/profilie/profilie/stargazers)
+[![Pulls](https://img.shields.io/github/issues-pr-raw/profilie/profilie?style=for-the-badge&label=Pull+Requests)](https://github.com/profilie/profilie/pulls)
+[![Issues](https://img.shields.io/github/issues/profilie/profilie?style=for-the-badge)](https://github.com/profilie/profilie/issues)
+[![License](https://img.shields.io/github/license/profilie/profilie?style=for-the-badge)](https://github.com/profilie/profilie/blob/main/LICENSE)
 [![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&color=blue)](https://profilie.github.io/)
 
 <div align="center">
