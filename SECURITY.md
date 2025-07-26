@@ -2,4 +2,4 @@
 Here is the security policy for the Profilie.
 
 ### Reporting a Vulnerability
-Please report all vulnerabilities to [profilie@harys.is-a.dev](mailto:profilie@harys.is-a.dev).
+Please report all vulnerabilities to [security@profilie.harys.is-a.dev](mailto:security@profilie.harys.is-a.dev).
