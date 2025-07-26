@@ -5,7 +5,7 @@
 [![Pulls](https://img.shields.io/github/issues-pr-raw/profilie/profilie?style=for-the-badge&label=Pull+Requests)](https://github.com/profilie/profilie/pulls)
 [![Issues](https://img.shields.io/github/issues/profilie/profilie?style=for-the-badge)](https://github.com/profilie/profilie/issues)
 [![License](https://img.shields.io/github/license/profilie/profilie?style=for-the-badge)](https://github.com/profilie/profilie/blob/main/LICENSE)
-[![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&color=blue)](https://profilie.github.io/)
+[![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&color=blue)](https://profilie.js.org/)
 
 <div align="center">
   <a href="#">
@@ -48,12 +48,12 @@ Once you've duplicated the template, navigate to config.js and customize it to s
 
 You can also edit `index.html` to modify the site title, meta tags, and other elements to personalize your profile.
 
-- [**Check out the live perview!**](https://profilie.github.io/starter/)
+- [**Check out the live perview!**](https://profilie.js.org/starter/)
 
 # 📖 Documentation
 We have created comprehensive and detailed documentation on every topic of Profilie. You can read it to learn everything from the best. If you feel something is missing, feel free to contribute a guide or let us know. We appreciate all your efforts.
 
-- [**Read the docs**](https://profilie.github.io/docs/)
+- [**Read the docs**](https://profilie.js.org/docs/)
 
 # ❔ Support
 If you have any questions or need assistance, feel free to open an issue for help.

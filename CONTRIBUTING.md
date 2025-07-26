@@ -22,6 +22,6 @@ Follow existing code style where applicable.
 Include documentation updates when relevant.
 
 ### Contact
-If you're unsure about anything or need guidance, feel free to open an issue or reach out in discussions. For general inquiries, please send an email at [profilie@harys.is-a.dev](mailto:profilie@harys.is-a.dev).
+If you're unsure about anything or need guidance, feel free to open an issue or reach out in discussions. For general inquiries, please send an email at [hello@profilie.harys.is-a.dev](mailto:hello@profilie.harys.is-a.dev).
 
 Thank you for contributing to Profilie! 🚀
