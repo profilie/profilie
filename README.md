@@ -65,4 +65,22 @@ The base URL for all CDN links is:
 https://cdn.harys.is-a.dev/profilie
 ```
 
+## ⭐ Credits
+We sincerely thank all our supporters for their valuable services.
+
+<details>
+  <summary>Click me!</summary>
+  <br />
+
+### Icon
+The service icon is sourced from [FlatIcon](https://www.flaticon.com/).
+
+### Domain
+The domain `profilie.js.org` is hosted through the free subdomain service provided by [JS.ORG](https://www.js.org/)
+
+### Documentation
+The documentation website is generated using [Retype](https://www.retype.com/)
+</details>
+
+
 <p align="center"><a href="#top">⬆️ Back to top!</a></p>
